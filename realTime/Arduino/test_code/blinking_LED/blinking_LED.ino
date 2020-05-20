@@ -3,7 +3,7 @@
   Complete project details at https://randomnerdtutorials.com  
 *********/
 
-int pin = 2;
+int pin = 5;
 
 void setup() {
   // initialize GPIO 2 as an output.
