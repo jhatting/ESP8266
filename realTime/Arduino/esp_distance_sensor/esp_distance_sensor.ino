@@ -7,11 +7,11 @@
 
 //Wi-Fi settings
 #define WIFI_SSID "HotRod"
-#define WIFI_PASSWORD "aaaaaaaa"
+#define WIFI_PASSWORD "hotRod34"
 
 //Define trigger and echo digital pins
-const int trigPin = 4;
-const int echoPin = 3;
+const int trigPin = 5;
+const int echoPin = 4;
 
 // The amount of time the ultrassonic wave will be travelling for
 long duration = 0;
