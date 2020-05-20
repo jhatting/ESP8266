@@ -2,12 +2,12 @@
 #include <FirebaseArduino.h>
 
 //Firebase settings
-#define FIREBASE_HOST "<YOUR_FIREBASE_PROJECT_NAME>.firebaseio.com"
-#define FIREBASE_AUTH "<YOUR_FIREBASE_SECRET>"
+#define FIREBASE_HOST "Realtime-database-3081b.firebaseio.com"
+#define FIREBASE_AUTH "ooMdifveArUQjgJcDUP5smNQUwQHI91ndrVQcVLv"
 
 //Wi-Fi settings
-#define WIFI_SSID "<YOUR_WIFI_NETWORK_NAME>"
-#define WIFI_PASSWORD "<YOUR_WIFI_NETWORK_PASSWORD>"
+#define WIFI_SSID "HotRod"
+#define WIFI_PASSWORD "aaaaaaaa"
 
 //Define trigger and echo digital pins
 const int trigPin = 4;
