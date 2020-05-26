@@ -6,8 +6,8 @@
 #define FIREBASE_AUTH "ooMdifveArUQjgJcDUP5smNQUwQHI91ndrVQcVLv"
 
 //Wi-Fi settings
-#define WIFI_SSID "HotRod"
-#define WIFI_PASSWORD "hotRod34"
+#define WIFI_SSID "GetYourOwnWiFi"
+#define WIFI_PASSWORD "aaaaaaaa"
 
 //Define trigger and echo digital pins
 const int trigPin = 5;
